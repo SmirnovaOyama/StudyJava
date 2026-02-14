@@ -2,6 +2,8 @@
 
 Complete the following exercises to practice what you've learned in Course 1.
 
+**How to use:** Each exercise has a starter file (Exercise1.java, Exercise2.java, etc.) with TODO comments to guide you. Try to complete the exercises on your own before checking the solutions in the `Solutions/` folder.
+
 ## Exercise 1: Personal Introduction
 **Difficulty: Easy**
 

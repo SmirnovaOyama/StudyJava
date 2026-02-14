@@ -17,6 +17,10 @@ public class PersonalInfoSystem {
         System.out.println("╚════════════════════════════════════╝");
         System.out.println();
         
+        // NOTE: This example demonstrates basic input/output operations.
+        // For simplicity, it assumes valid input. Advanced error handling
+        // and input validation will be covered in Course 5 (Exception Handling).
+        
         // Collect personal information
         System.out.print("Enter your name: ");
         String name = scanner.nextLine();

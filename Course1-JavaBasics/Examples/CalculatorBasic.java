@@ -1,6 +1,10 @@
 /**
  * CalculatorBasic.java
  * A simple calculator that performs basic arithmetic operations.
+ * 
+ * NOTE: This example includes if-else statements, which are formally
+ * introduced in Course 2 (Control Flow). Consider this a preview of
+ * concepts you'll learn in the next course.
  */
 
 import java.util.Scanner;
