@@ -4,6 +4,7 @@
  */
 
 import java.util.Scanner;
+import java.time.LocalDate;
 
 public class InputOutputDemo {
     public static void main(String[] args) {
@@ -44,7 +45,7 @@ public class InputOutputDemo {
         System.out.printf("Your height is %.2f meters.%n", height);
         
         // Calculate birth year (approximate)
-        int currentYear = 2024;
+        int currentYear = LocalDate.now().getYear();
         int birthYear = currentYear - age;
         System.out.printf("You were born approximately in %d.%n", birthYear);
         
